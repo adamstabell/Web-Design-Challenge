@@ -1,0 +1,34 @@
+h1.title {
+	color: #6467b3;
+	padding: 10px 10px 10px 0px;
+}
+
+h3 {
+	color: #6467b3;
+	padding: 10px 10px 10px 0px;
+
+}
+
+img {
+	width: 100%;
+}
+
+.navbar-brand {
+	color: white!important;
+}
+.bg-light {
+	background-color: #6467b3!important;
+}
+
+.nav-link {
+	color: white!important;
+}
+
+.container {
+	background-color: #f1f1f1;
+	min-height: 90%;
+}
+
+body {
+	height: 100vh;
+}
